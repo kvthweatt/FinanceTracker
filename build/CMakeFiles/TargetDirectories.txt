@@ -1,0 +1,5 @@
+/home/karac/FinanceTracker/build/CMakeFiles/finance_tracker_gui.dir
+/home/karac/FinanceTracker/build/CMakeFiles/edit_cache.dir
+/home/karac/FinanceTracker/build/CMakeFiles/rebuild_cache.dir
+/home/karac/FinanceTracker/build/CMakeFiles/finance_tracker_gui_autogen_timestamp_deps.dir
+/home/karac/FinanceTracker/build/CMakeFiles/finance_tracker_gui_autogen.dir
